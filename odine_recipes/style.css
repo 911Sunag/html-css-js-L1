@@ -1,27 +1,32 @@
 h1{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
     color: rgb(43, 42, 42);
     text-align: center;
     text-transform: uppercase;
-    padding-top: 200px;
+    padding-top: 130px;
 }
-
 body{
-    background-color: rgb(55, 89, 191);
+    background-image: url("pexels-ella-olsson-572949-1640777.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center center;
+    height: 100vh;
 }
 #one,#two,#three,#four{
     
     text-align: center;
     font-weight: bold;
-    font-family: cursive;
+    font-family: 'Courier New', Courier, monospace;
     text-transform: uppercase;
     font-size: large;
     padding-bottom: 20px;
     padding-top: 25px;  
 }
 a{
-    color: rgba(5, 166, 229, 0.866);
+    color: green;
     text-decoration: none;
 }
 a:hover{
-    color: rgb(73, 73, 236);
+    color: rgb(133, 234, 82);
 }
+
